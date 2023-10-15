@@ -1,2 +1,3 @@
 # Temprature-converter
- Bharat Intern task2
+
+Temprature converter formed using HTML, CSS and JS
